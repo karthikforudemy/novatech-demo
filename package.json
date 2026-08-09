@@ -2,7 +2,7 @@
   "name": "novatech-demo",
   "version": "1.0.0",
   "type": "module",
-  "description": "NovaTech Solutions - Demo project for Advanced Claude Code course",
+  "description": "NovaTech Solutions - Demo project for Claude Code MCP usage ",
   "scripts": {
     "dev": "npx serve src -l 3000",
     "lint": "eslint src/js/",
@@ -22,10 +22,8 @@
   },
   "keywords": [
     "demo",
-    "claude-code",
-    "pluralsight",
-    "course"
+    "claude-code"
   ],
-  "author": "Károly Nyisztor",
-  "license": "MIT"
+  "author": "Karthikeyan. J",
+  "license": ""
 }
