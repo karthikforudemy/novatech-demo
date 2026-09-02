@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "mygithubmcpserver": {
+    "mygithubmcp": {
       "type": "stdio",
       "command": "cmd",
       "args": [
